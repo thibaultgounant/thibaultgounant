@@ -10,3 +10,5 @@
 :heart: Algorithm optimization & problem-solving
 
 :book: The Art of Computer Programming, Donald Knuth
+
+:pray: RIP Atom
