@@ -22,3 +22,7 @@
 <a href="mailto:gounant.thibault@gmail.com">
     <img alt="" src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+<a href="https://discord.com/users/266465439222202372">
+    <img alt="" src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=white">
+</a>
