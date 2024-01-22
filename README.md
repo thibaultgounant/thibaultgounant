@@ -26,3 +26,5 @@
 <a href="https://discord.com/users/266465439222202372">
     <img alt="" src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=white">
 </a>
+
+# :books: Skills
