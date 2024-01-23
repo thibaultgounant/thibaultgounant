@@ -28,3 +28,9 @@
 </a>
 
 # :books: Skills
+
+<table>
+    <tr>
+        <th scope="row">Software</th>
+    </tr>
+</table>
