@@ -33,4 +33,7 @@
     <tr>
         <th scope="row">Software</th>
     </tr>
+    <tr>
+        <th scope="row">Web</th>
+    </tr>
 </table>
