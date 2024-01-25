@@ -36,4 +36,7 @@
     <tr>
         <th scope="row">Web</th>
     </tr>
+    <tr>
+        <th scope="row">Framework</th>
+    </tr>
 </table>
