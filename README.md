@@ -39,4 +39,7 @@
     <tr>
         <th scope="row">Framework</th>
     </tr>
+    <tr>
+        <th scope="row">Database</th>
+    </tr>
 </table>
