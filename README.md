@@ -1,4 +1,3 @@
-
 # :boy: About me
 
 :wave: Hi there
@@ -41,5 +40,8 @@
     </tr>
     <tr>
         <th scope="row">Database</th>
+    </tr>
+    <tr>
+        <th scope="row">CI/CD</th>
     </tr>
 </table>
