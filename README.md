@@ -44,4 +44,7 @@
     <tr>
         <th scope="row">CI/CD</th>
     </tr>
+    <tr>
+        <th scope="row">Miscellaneous</th>
+    </tr>
 </table>
