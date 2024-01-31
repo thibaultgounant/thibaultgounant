@@ -48,3 +48,5 @@
         <th scope="row">Miscellaneous</th>
     </tr>
 </table>
+
+# :open_file_folder: Projects
