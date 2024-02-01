@@ -46,6 +46,10 @@
     </tr>
     <tr>
         <th scope="row">Miscellaneous</th>
+        <td width="64px" height="64px" align="center">
+            <img width="32px" height="32" alt="" src="assets/icons/git.svg"/>
+            <br>Git
+        </td>
     </tr>
 </table>
 
